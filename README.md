@@ -12,4 +12,8 @@ BOOTCAMP - Cognizant Cloud Data Engineer
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
+## Dados utilizados
+
+CENIPA - Ocorrências Aeronáuticas na Aviação Civil Brasileira [[ir para site]](https://dados.gov.br/dataset/ocorrencias-aeronauticas-da-aviacao-civil-brasileira "Clique Aqui"). 
+
 
